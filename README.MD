@@ -4,4 +4,4 @@
 
 
 
-<input></input>
+<input>ingresa un nombre</input>
