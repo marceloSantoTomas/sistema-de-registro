@@ -5,3 +5,10 @@
 
 
 <input>ingresa un nombre</input>
+
+para ejecutar el sistema debes poner:
+
+````npm install react```
+
+
+
